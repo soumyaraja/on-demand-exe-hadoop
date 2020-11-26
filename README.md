@@ -1,4 +1,4 @@
-# on-demand EMR Creation in AWS
+# On-Demand EMR Creation in AWS
 ## Pre-requisite
 * create lambda function
 * create EMR roles and required access to lambda to spin up EMR cluster
